@@ -1,10 +1,15 @@
 import Hero from "@/components/Hero";
-import Image from "next/image";
+import Project from "@/components/Project";
+import Skill from "@/components/Skill";
+import Timeline from "@/components/Timeline";
 
 export default function Home() {
   return (
     <main className="">
       <Hero />
+      <Skill />
+      <Timeline />
+      <Project />
     </main>
   );
 }

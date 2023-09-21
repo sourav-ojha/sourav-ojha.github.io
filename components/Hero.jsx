@@ -1,7 +1,6 @@
 // The Home section
 // Name and a small description with Image
 
-import Image from "next/image";
 import SocialMedia from "./SocialMedia";
 
 const Hero = () => {
@@ -18,7 +17,7 @@ const Hero = () => {
           <div className="my-2 text-4xl">I am a Fullstack Developer.</div>
         </div>
         <div className="grid w-1/2 place-items-center">
-          <Image
+          <img
             className=""
             src="/Programming.gif"
             alt="hero"

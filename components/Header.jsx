@@ -15,8 +15,7 @@ const MENU = [
   { path: "#home", title: "Home" },
   // { path: "#about", title: "About" },
   { path: "#skill", title: "Skill" },
-  { path: "#education", title: "Education" },
-  { path: "#experience", title: "Experience" },
+  { path: "#timeline", title: "Timeline" },
   { path: "#projects", title: "Projects" },
   { path: "#footer", title: "Contact" },
 ];
